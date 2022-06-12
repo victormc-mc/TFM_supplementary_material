@@ -1,0 +1,226 @@
+Genome	Pipolins	AssemblyAN	Genus	Specie	BioSampleAN	Host	Isolation_source	SRA	Geo_location
+G_49991	1	GCA_013348825.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN15162791	Sus scrofa domesticus	NA	NA	South Korea
+G_6710	1	GCA_013299585.1	Blautia	Blautia obeum	SAMN14067796	Homo sapiens	fecal sample	NA	USA
+G_45356	1	GCA_900142165.1	Hespellia	Hespellia stercorisuis	SAMN02745243	NA	NA	 SRS1657405	USA
+G_129836	1	GCA_010146995.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507879	Homo sapiens	Popliteal_fossa	 SRS5258084	USA
+G_49904	1	GCA_009389035.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280126	chicken	chicken feces	NA	Switzerland
+G_49921	1	GCA_009389425.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280107	chicken	chicken cecum	NA	Switzerland
+G_119873	1	GCA_900062905.1	Staphylococcus	Staphylococcus aureus	SAMEA1464574	Homo sapiens	blood	 ERS073910	United Kingdom
+G_129890	1	GCA_010147035.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507876	Homo sapiens	Popliteal_fossa	 SRS5258081	USA
+G_129010	1	GCA_002799485.1	Staphylococcus	Staphylococcus epidermidis	SAMN08095611	Homo sapiens	blood	NA	Brazil
+G_50133	1	GCA_020978285.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN16712076	NA	Lohmann Animal Health	 SRS7886597	Germany
+G_132579	1	GCA_001237405.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035045	Homo sapiens	blood	 ERS067546	Norway
+G_131161	1	GCA_016859455.1	Staphylococcus	Staphylococcus epidermidis	SAMN14734458	Homo sapiens	nose; prosthetic joint infection	NA	Germany
+G_49819	1	GCA_003046055.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN08801721	not applicable	sourdough	NA	Turkey
+G_109006	1	GCA_014831885.1	Staphylococcus	Staphylococcus aureus	SAMN12642257	Homo sapiens	SSTI	 SRS6099287	USA
+G_49887	2	GCA_009649105.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN13186396	mouse	gut	 SRS5640748	not applicable
+G_49870	1	GCA_002128585.1	Contaminated	Contaminated	SAMN05751485	pig	feces	NA	South Korea
+G_129848	1	GCA_010147005.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507878	Homo sapiens	Popliteal_fossa	 SRS5258079	USA
+G_49892	1	GCA_009389245.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280115	chicken	chicken feces	NA	Switzerland
+G_49907	1	GCA_009389285.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280116	chicken	chicken feces	NA	Switzerland
+G_128849	1	GCA_001073435.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197769	Homo sapiens	missing	 SRS746977	USA
+G_105708	1	GCA_009456635.1	Staphylococcus	Staphylococcus aureus	SAMN12776220	Homo sapiens	Nasal Surveillance	 SRS5432565	USA
+G_128949	1	GCA_001074875.1	Staphylococcus	Staphylococcus epidermidis	SAMN03198097	Homo sapiens	missing	 SRS747305	USA
+G_130068	1	GCA_010150945.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507680	Homo sapiens	L_thumb	 SRS5257548	USA
+G_6812	1	GCA_020555525.1	Blautia	Blautia obeum	SAMN22167578	Homo sapiens	fecal sample	NA	USA
+G_49909	1	GCA_009389005.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280129	chicken	chicken feces	NA	Switzerland
+G_49956	1	GCA_009389115.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280123	chicken	chicken cecum	NA	Switzerland
+G_107595	1	GCA_011291995.1	Staphylococcus	Staphylococcus aureus	SAMN14330687	swine	nasal swab	NA	China
+G_128746	1	GCA_001068895.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197215	Homo sapiens	missing	 SRS746423	USA
+G_136566	1	GCA_007833855.1	Staphylococcus	Staphylococcus warneri	SAMN10687116	porcine	muscle abscess tissue	NA	China
+G_128794	1	GCA_001068505.1	Staphylococcus	Staphylococcus epidermidis	SAMN03196990	Homo sapiens	missing	 SRS746198	USA
+G_136176	1	GCA_009805725.1	Contaminated	Contaminated	SAMN12606148	NA	wastewater	NA	Pakistan
+G_48831	1	GCA_004354625.1	Lentilactobacillus	Lentilactobacillus parakefiri	SAMN08556539	NA	missing	NA	Denmark
+G_48117	1	GCA_014830205.1	Lactobacillus	Lactobacillus sp. M31	SAMN09636338	NA	fecal contaminated soil	NA	India
+G_6995	1	GCA_003480485.1	Butyricicoccus	Butyricicoccus sp. AM29-23AC	SAMN09736400	Homo sapiens	feces	NA	China
+G_130191	1	GCA_010154115.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507521	Homo sapiens	L_cheek	 SRS5258369	USA
+G_136197	1	GCA_001808005.1	Contaminated	Contaminated	SAMN03287024	Homo sapiens	urinary tract	 SRS821529	NA
+G_50030	1	GCA_020784435.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258656	Rattus norvegicus	NA	 SRS10629428	Canada
+G_49871	1	GCA_002128765.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751496	pig	feces	NA	South Korea
+G_132944	1	GCA_014204615.1	Staphylococcus	Staphylococcus hominis	SAMN14908253	not applicable	missing	 SRS7169329; DOE Joint Genome Institute: Gp0478686	USA
+G_49984	1	GCA_014145445.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN15676324	Argus pheasant	gastrointestinal tract	NA	USA
+G_131542	2	GCA_021990885.1	Staphylococcus	Staphylococcus epidermidis	SAMN20719732	NA	not applicable	NA	China
+G_49975	1	GCA_020784465.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258658	Rattus norvegicus	NA	 SRS10629430	Canada
+G_129276	1	GCA_007672825.1	Staphylococcus	Staphylococcus epidermidis	SAMN11792564	not applicable	environmental	NA	USA
+G_49978	1	GCA_020785325.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258612	Homo sapiens	NA	 SRS10629383	Papua New Guinea
+G_128732	1	GCA_001068635.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197050	Homo sapiens	missing	 SRS746258	USA
+G_49661	1	GCA_000217735.2	Ligilactobacillus	Ligilactobacillus salivarius	SAMN02470918	NA	NA	NA	NA
+G_112260	1	GCA_016832855.1	Staphylococcus	Staphylococcus aureus	SAMN17620536	Homo sapiens	Cathether	NA	Taiwan
+G_49938	2	GCA_009389305.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280114	chicken	chicken cecum	NA	Switzerland
+G_49893	1	GCA_009389165.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280122	chicken	chicken cecum	NA	Switzerland
+G_131395	1	GCA_016903575.1	Staphylococcus	Staphylococcus epidermidis	SAMN16357506	missing	missing	 SRS8226067	USA
+G_129072	1	GCA_001999745.1	Staphylococcus	Staphylococcus epidermidis	SAMN05721775	missing	missing	 SRS1663186	missing
+G_128858	1	GCA_001072495.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197544	Homo sapiens	missing	 SRS746752	USA
+G_49796	1	GCA_002253825.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN06848393	mouse	forestomach	NA	France
+G_128774	1	GCA_001068475.1	Staphylococcus	Staphylococcus epidermidis	SAMN03196986	Homo sapiens	missing	 SRS746194	USA
+G_50099	1	GCA_020785915.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258582	Francolin	NA	 SRS10629408	USA
+G_130950	1	GCA_012030625.1	Staphylococcus	Staphylococcus epidermidis	SAMN14478488	Homo sapiens	NA	 SRS6392389	USA
+G_6979	1	GCA_003481705.1	Butyricicoccus	Butyricicoccus sp. OM04-18BH	SAMN09736784	Homo sapiens	feces	NA	China
+G_49830	1	GCA_001705505.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05514174	Gallus gallus	NA	NA	USA
+G_50017	1	GCA_020784455.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258655	Rat	NA	 SRS10629426	Canada
+G_128803	1	GCA_001069095.1	Staphylococcus	Staphylococcus epidermidis	SAMN03196985	Homo sapiens	missing	 SRS746193	USA
+G_136534	1	GCA_007666055.1	Staphylococcus	Staphylococcus warneri	SAMN11792722	not applicable	environmental	NA	USA
+G_131987	1	GCA_022003975.1	Staphylococcus	Staphylococcus epidermidis	SAMN20719928	NA	not applicable	NA	China
+G_130039	1	GCA_010150995.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507678	Homo sapiens	L_thumb	 SRS5257554	USA
+G_107521	1	GCA_011291885.1	Staphylococcus	Staphylococcus aureus	SAMN14330691	swine	nasal swab	NA	China
+G_131616	1	GCA_021993035.1	Staphylococcus	Staphylococcus epidermidis	SAMN20719564	NA	not applicable	NA	China
+G_132482	1	GCA_001227705.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035075	Homo sapiens	blood	 ERS066304	Norway
+G_49930	1	GCA_009389325.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280113	chicken	chicken cecum	NA	Switzerland
+G_50048	1	GCA_020785335.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258611	Homo sapiens	NA	 SRS10629382	Papua New Guinea
+G_131451	1	GCA_021989975.1	Staphylococcus	Staphylococcus epidermidis	SAMN20719893	NA	not applicable	NA	China
+G_49868	1	GCA_002112185.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN06640221	Gallus gallus	feces	NA	Denmark
+G_50021	1	GCA_020785095.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258625	Lion-tailed Macaque	NA	 SRS10629395	USA
+G_6571	1	GCA_003464645.1	Blautia	Blautia obeum	SAMN09734254	Homo sapiens	feces	NA	China
+G_125502	1	GCA_000553835.1	Staphylococcus	Staphylococcus aureus	SAMN02325273	Homo sapiens	wound	 SRS486975	USA
+G_124259	1	GCA_000638075.1	Staphylococcus	Staphylococcus aureus	SAMN02391235	Bos taurus	bodily fluid	 SRS613194	Italy
+G_49758	1	GCA_001027985.1	Limosilactobacillus	Limosilactobacillus panis	SAMN03658566	NA	sourdough	NA	Germany
+G_50003	1	GCA_020785355.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258610	Homo sapiens	NA	 SRS10629384	Papua New Guinea
+G_136514	1	GCA_007665805.1	Staphylococcus	Staphylococcus warneri	SAMN11792734	not applicable	environmental	NA	USA
+G_130008	1	GCA_010150905.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507683	Homo sapiens	L_thumb	 SRS5257559	USA
+G_128855	1	GCA_001072875.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197614	Homo sapiens	missing	 SRS746823	USA
+G_128910	1	GCA_001074185.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197955	Homo sapiens	missing	 SRS747163	USA
+G_128856	1	GCA_001073595.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197823	Homo sapiens	missing	 SRS747029	USA
+G_129016	1	GCA_002750045.1	Staphylococcus	Staphylococcus epidermidis	SAMN07839770	Homo sapiens	Neck/Axilla	NA	USA
+G_50100	2	GCA_020785755.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258589	Quail	NA	 SRS10629360	USA
+G_6535	1	GCA_003467455.1	Blautia	Blautia obeum	SAMN09736514	Homo sapiens	feces	NA	China
+G_129881	1	GCA_010147085.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507875	Homo sapiens	Popliteal_fossa	 SRS5258080	USA
+G_131009	1	GCA_015274775.1	Staphylococcus	Staphylococcus epidermidis	SAMN15665228	Homo sapiens	skin swab1378 from squamous cell carcinomas patient MST002	 SRS7110278	Australia
+G_50173	1	GCA_020786095.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258577	Argus Pheasent	NA	 SRS10629487	USA
+G_130034	1	GCA_010150855.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507686	Homo sapiens	L_thumb	 SRS5257923	USA
+G_49786	1	GCA_002128555.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751484	pig	feces	NA	South Korea
+G_50160	1	GCA_020785995.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258583	Francolin	NA	 SRS10629416	USA
+G_131022	1	GCA_015274835.1	Staphylococcus	Staphylococcus epidermidis	SAMN15665225	Homo sapiens	skin swab1378 from squamous cell carcinomas patient MST002	 SRS7110272	Australia
+G_49584	1	GCA_021168655.1	Limosilactobacillus	Limosilactobacillus agrestis	SAMN23720006	Microtus oeconomus (root vole)	NA	NA	Lithuania
+G_49955	2	GCA_009649475.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN13186404	rat	gut	 SRS5640758	not applicable
+G_123932	1	GCA_903990955.1	Staphylococcus	Staphylococcus aureus	SAMEA5886040	NA	Inguinal	 ERS3674492	Switzerland
+G_100627	1	GCA_003478775.1	Ruminococcus	Ruminococcus sp. AF21-3	SAMN09734427	Homo sapiens	feces	NA	China
+G_130017	1	GCA_010150815.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507688	Homo sapiens	L_thumb	 SRS5257925	USA
+G_99958	1	GCA_009696445.1	Porcincola	Porcincola intestinalis	SAMN12619123	Sus scrofa (WT)	feces	NA	Germany
+G_100479	1	GCA_003468625.1	Roseburia	Roseburia inulinivorans	SAMN09736447	Homo sapiens	feces	NA	China
+G_130249	1	GCA_010154355.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507511	Homo sapiens	R_cheek	 SRS5257894	USA
+G_124008	1	GCA_903990825.1	Staphylococcus	Staphylococcus aureus	SAMEA5886258	NA	Inguinal	 ERS3674710	Switzerland
+G_128944	1	GCA_001074895.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197858	Homo sapiens	missing	 SRS747066	USA
+G_131974	1	GCA_022003005.1	Staphylococcus	Staphylococcus epidermidis	SAMN20719979	NA	not applicable	NA	China
+G_6756	1	GCA_003481595.1	Blautia	Blautia sp. OM07-19	SAMN09736835	Homo sapiens	feces	NA	China
+G_50089	2	GCA_020785765.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258591	Quail	NA	 SRS10629364	USA
+G_49753	1	GCA_016900495.1	Limosilactobacillus	Limosilactobacillus ingluviei	SAMN14913609	Gallus gallus	NA	 SRS6659542	not applicable
+G_49787	1	GCA_002888655.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMEA3220431	NA	feces of pig	 ERS646249	NA
+G_132557	1	GCA_001239605.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035049	Homo sapiens	blood	 ERS066306	Norway
+G_105661	1	GCA_008938015.1	Staphylococcus	Staphylococcus aureus	SAMN09483923	Homo sapiens	blood	 SRS5130275	USA
+G_49723	1	GCA_015234165.1	Limosilactobacillus	Limosilactobacillus oris	SAMN16401882	Gallus gallus	gastrointestinal tract	NA	Germany
+G_130023	1	GCA_010150895.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507684	Homo sapiens	L_thumb	 SRS5257560	USA
+G_48191	1	GCA_002553915.1	Lactobacillus	Lactobacillus sp. UMNPBX10	SAMN07702361	Meleagris gallopavo	ileum	NA	USA
+G_97256	1	GCA_002770655.1	Loigolactobacillus	Loigolactobacillus backii	SAMN06053760	NA	Beer bottle from 1840's shipwreck	NA	Finland
+G_131247	1	GCA_016884545.1	Staphylococcus	Staphylococcus epidermidis	SAMN15759621	Homo sapiens	nose; prosthetic joint infection	NA	Germany
+G_49852	2	GCA_001889975.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05788099	pig	NA	NA	Netherlands
+G_130175	1	GCA_010154025.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507526	Homo sapiens	R_thumb	 SRS5257497	USA
+G_132588	1	GCA_001236245.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035082	Homo sapiens	blood	 ERS066273	Norway
+G_49810	1	GCA_002128715.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751486	pig	feces	NA	South Korea
+G_50052	1	GCA_020784375.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258657	Rattus norvegicus	NA	 SRS10629429	Canada
+G_130015	1	GCA_010150935.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507682	Homo sapiens	L_thumb	 SRS5257550	USA
+G_132282	1	GCA_900458515.1	Staphylococcus	Staphylococcus epidermidis	SAMEA3233552	not available	not available: to be reported later	 ERS654932	NA
+G_136239	1	GCA_017892405.1	Staphylococcus	Staphylococcus sp. GDY8P85P	SAMN17379285	pig	NA	NA	China
+G_130926	1	GCA_015273735.1	Staphylococcus	Staphylococcus epidermidis	SAMN15665280	Homo sapiens	skin swab1532 from squamous cell carcinomas patient MST015	 SRS7110287	Australia
+G_49986	1	GCA_020785475.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258608	Homo sapiens	NA	 SRS10629379	Papua New Guinea
+G_49851	1	GCA_002762415.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN07981098	NA	Probiotic Capsule	NA	India
+G_136525	1	GCA_004570505.1	Staphylococcus	Staphylococcus warneri	SAMN11126851	Mus musculus C3H/Orl	oral swab	NA	United Kingdom
+G_129871	1	GCA_010146955.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507880	Homo sapiens	Popliteal_fossa	 SRS5258085	USA
+G_136482	1	GCA_015235035.1	Staphylococcus	Staphylococcus warneri	SAMN16540206	Mus musculus	Oral	NA	United Kingdom
+G_136553	1	GCA_007666805.1	Staphylococcus	Staphylococcus warneri	SAMN11792673	not applicable	environmental	NA	USA
+G_50091	1	GCA_020786015.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258578	Argus Pheasent	NA	 SRS10629367	USA
+G_100623	1	GCA_003477985.1	Ruminococcus	Ruminococcus sp. AF31-16BH	SAMN09734574	Homo sapiens	feces	NA	China
+G_50071	1	GCA_014836425.1	Limosilactobacillus	Limosilactobacillus sp. Sa3CUN2	SAMN15803264	Gallus gallus	NA	NA	United Kingdom
+G_48198	1	GCA_002553855.1	Lactobacillus	Lactobacillus sp. UMNPBX18	SAMN07702369	Meleagris gallopavo	ileum	NA	USA
+G_49671	2	GCA_016901895.1	Limosilactobacillus	Limosilactobacillus coleohominis	SAMN14913575	Gallus gallus	NA	 SRS6659510	not applicable
+G_169491	1	GCA_900109135.1	Trichococcus	Trichococcus ilyis	SAMN05216375	not applicable	missing	 SRS1669132; DOE Joint Genome Institute: Gp0110916	missing
+G_169371	1	GCA_900067235.1	Trichococcus	Trichococcus ilyis	SAMEA3872857	NA	NA	 ERS1059991	NA
+G_131011	1	GCA_015274905.1	Staphylococcus	Staphylococcus epidermidis	SAMN15665226	Homo sapiens	skin swab1378 from squamous cell carcinomas patient MST002	 SRS7110273	Australia
+G_132538	1	GCA_001235665.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035044	Homo sapiens	blood	 ERS066285	Norway
+G_49782	1	GCA_003046135.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN08801720	not applicable	sourdough	NA	Turkey
+G_136322	2	GCA_001837945.1	Staphylococcus	Staphylococcus sp. HMSC077D08	SAMN04498635	Homo sapiens	vaginal/rectal	 SRS1300342	NA
+G_50051	1	GCA_020784805.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258636	Patas monkey	NA	 SRS10629490	USA
+G_50037	1	GCA_020785415.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258609	Homo sapiens	NA	 SRS10629378	Papua New Guinea
+G_128814	1	GCA_001069925.1	Staphylococcus	Staphylococcus epidermidis	SAMN03196984	Homo sapiens	missing	 SRS746191	USA
+G_132420	1	GCA_001228285.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035086	Homo sapiens	Catheter	 ERS066368	Switzerland
+G_49908	1	GCA_009389015.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09280125	chicken	chicken feces	NA	Switzerland
+G_49878	1	GCA_012843635.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN14558267	Sus scrofa domesticus	feces	NA	Germany
+G_49853	1	GCA_003064585.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN06464108	Homo sapiens	Commercial dietary supplements	 SRS2019354	USA
+G_49836	1	GCA_002128745.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751490	pig	feces	NA	South Korea
+G_129345	1	GCA_008923005.1	Staphylococcus	Staphylococcus epidermidis	SAMN12840199	Homo sapiens	blood	NA	United Kingdom
+G_46088	1	GCA_005796045.1	Lacticaseibacillus	Lacticaseibacillus zeae	SAMN11638139	Homo sapiens	throat	NA	unknown
+G_132725	1	GCA_019391625.1	Staphylococcus	Staphylococcus haemolyticus	SAMN19655106	Homo sapiens	sputum	 SRS9175361	China
+G_136560	1	GCA_007666685.1	Staphylococcus	Staphylococcus warneri	SAMN11792680	not applicable	environmental	NA	USA
+G_49593	3	GCA_016901675.1	Limosilactobacillus	Limosilactobacillus coleohominis	SAMN14913585	Gallus gallus	NA	 SRS6659520	not applicable
+G_131572	1	GCA_021992315.1	Staphylococcus	Staphylococcus epidermidis	SAMN20719589	NA	not applicable	NA	China
+G_105545	1	GCA_008936075.1	Staphylococcus	Staphylococcus aureus	SAMN09483951	Homo sapiens	blood	 SRS5130232	USA
+G_129883	1	GCA_010147275.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507864	Homo sapiens	Cubital_fossa	 SRS5257568	USA
+G_49977	1	GCA_020785145.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258623	Black Howler Monkey	NA	 SRS10629397	USA
+G_128900	1	GCA_001069245.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197099	Homo sapiens	missing	 SRS746307	USA
+G_129887	1	GCA_010147075.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507874	Homo sapiens	Popliteal_fossa	 SRS5258317	USA
+G_50067	1	GCA_020785255.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258614	Homo sapiens	NA	 SRS10629385	Papua New Guinea
+G_50090	2	GCA_020785715.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258592	turkey	NA	 SRS10629363	Sweden
+G_50019	1	GCA_020785035.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258626	Lion-tailed Macaque	NA	 SRS10629399	USA
+G_128888	1	GCA_001069845.1	Staphylococcus	Staphylococcus epidermidis	SAMN03196975	Homo sapiens	missing	 SRS746184	USA
+G_130074	1	GCA_010150975.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507681	Homo sapiens	L_thumb	 SRS5257549	USA
+G_50055	1	GCA_013487925.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN13624823	Equus caballus	NCSU Equine Educational Unit	 SRS5873513	USA
+G_136526	1	GCA_007666005.1	Staphylococcus	Staphylococcus warneri	SAMN11792724	not applicable	environmental	NA	USA
+G_100380	1	GCA_001405535.1	Roseburia	Roseburia inulinivorans	SAMEA3545295	Homo sapiens	feces	 ERS852444	United Kingdom
+G_129085	1	GCA_002750035.1	Staphylococcus	Staphylococcus epidermidis	SAMN07839772	Homo sapiens	Neck/Axilla	NA	Canada
+G_49877	1	GCA_003703875.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN08565493	rat	NA	 SRS4022896	not applicable
+G_49704	1	GCA_001435935.1	Limosilactobacillus	Limosilactobacillus panis	SAMN02369492	NA	sourdough	 SRS549092	Germany
+G_132500	1	GCA_001229185.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035053	Homo sapiens	Arterial blood	 ERS066370	Switzerland
+G_129349	1	GCA_008922415.1	Staphylococcus	Staphylococcus epidermidis	SAMN12840229	Homo sapiens	blood	NA	United Kingdom
+G_6949	1	GCA_003480085.1	Butyricicoccus	Butyricicoccus sp. AM42-5AC	SAMN09736557	Homo sapiens	feces	NA	China
+G_50156	1	GCA_901971765.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMEA5674231	Sus scrofa domesticus	pork faeces	 ERS3478232	Spain
+G_50095	1	GCA_020785975.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258579	Argus Pheasent	NA	 SRS10629376	USA
+G_130009	1	GCA_010150515.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507701	Homo sapiens	L_cheek	 SRS5257582	USA
+G_50057	1	GCA_020784875.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258635	Patas monkey	NA	 SRS10629409	USA
+G_48777	1	GCA_001434135.1	Lentilactobacillus	Lentilactobacillus kisonensis	SAMN02369458	NA	non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)	 SRS549058	Japan
+G_49885	2	GCA_003413665.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN09748305	piglet	feces	NA	China
+G_48873	1	GCA_002157585.1	Lentilactobacillus	Lentilactobacillus parakefiri	SAMD00054186	NA	kefir grains	 DRS044624	Japan
+G_132877	1	GCA_002026385.1	Staphylococcus	Staphylococcus hominis	SAMN04296816	NA	Ancient permafrost from Mammoth Mountain	NA	Russia
+G_132244	1	GCA_008868245.1	Staphylococcus	Staphylococcus epidermidis	SAMN12822027	not applicable	not applicable	 SRS5429750	not applicable
+G_49494	1	GCA_004405135.1	Ligilactobacillus	Ligilactobacillus salivarius	SAMN11160677	Lama glama	NA	NA	Chile
+G_132856	1	GCA_001074645.1	Contaminated	Contaminated	SAMN03198066	Homo sapiens	missing	 SRS747274	USA
+G_132158	1	GCA_000276105.1	Staphylococcus	Staphylococcus epidermidis	SAMN00993295	Homo sapiens	blood	 SRS333719	USA
+G_128724	1	GCA_001068455.1	Staphylococcus	Staphylococcus epidermidis	SAMN03196971	Homo sapiens	missing	 SRS746179	USA
+G_100718	1	GCA_003481655.1	Ruminococcus	Ruminococcus sp. OM05-10BH	SAMN09736793	Homo sapiens	feces	NA	China
+G_49860	2	GCA_002128685.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751495	pig	feces	NA	South Korea
+G_132524	1	GCA_001238305.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035102	Homo sapiens	blood	 ERS066270	Norway
+G_50166	2	GCA_020785795.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258590	Quail	NA	 SRS10629362	USA
+G_129221	1	GCA_007674085.1	Staphylococcus	Staphylococcus epidermidis	SAMN11792470	not applicable	environmental	NA	USA
+G_50111	1	GCA_020785675.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN22258593	turkey	NA	 SRS10629361	USA
+G_21819	1	GCA_000270305.1	Clostridium	Clostridium sp. SY8519	SAMD00060994	NA	Adult Human Intestine	NA	NA
+G_49792	1	GCA_002160565.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN06473632	Gallus gallus	caecum	 SRS2048708	not applicable
+G_149386	1	GCA_901217075.1	Contaminated	Contaminated	SAMEA2052022	Homo sapiens	blood	 ERS215003	Malawi
+G_49844	1	GCA_002159305.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN06473750	Gallus gallus	caecum	 SRS2048594	not applicable
+G_129819	1	GCA_010147045.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507877	Homo sapiens	Popliteal_fossa	 SRS5258078	USA
+G_129058	1	GCA_002750185.1	Staphylococcus	Staphylococcus epidermidis	SAMN07839773	Homo sapiens	Neck/Axilla	NA	USA
+G_6583	1	GCA_003471125.1	Blautia	Blautia obeum	SAMN09734919	Homo sapiens	feces	NA	China
+G_124119	1	GCA_903991835.1	Staphylococcus	Staphylococcus aureus	SAMEA5886125	NA	Nose-Throat-Inguinal	 ERS3674577	Switzerland
+G_105709	1	GCA_008936895.1	Staphylococcus	Staphylococcus aureus	SAMN09483953	Homo sapiens	blood	 SRS5130234	USA
+G_49864	1	GCA_003053005.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05942019	Homo sapiens	Commercial dietary supplements	 SRS1759735	USA
+G_131949	2	GCA_022003245.1	Staphylococcus	Staphylococcus epidermidis	SAMN20719967	NA	not applicable	NA	China
+G_129022	1	GCA_002752835.2	Staphylococcus	Staphylococcus epidermidis	SAMN07839775	Homo sapiens	Neck/Axilla	NA	USA
+G_48209	1	GCA_002554075.1	Lactobacillus	Lactobacillus sp. UMNPBX2	SAMN07702353	Meleagris gallopavo	ileum	NA	USA
+G_128877	1	GCA_001072995.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197632	Homo sapiens	missing	 SRS746838	USA
+G_109018	1	GCA_014831915.1	Staphylococcus	Staphylococcus aureus	SAMN12642256	Homo sapiens	SSTI	 SRS6099286	USA
+G_124016	1	GCA_903990585.1	Staphylococcus	Staphylococcus aureus	SAMEA5886237	NA	Nose	 ERS3674689	Switzerland
+G_132424	1	GCA_001231265.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035122	Homo sapiens	blood	 ERS066299	Norway
+G_129972	1	GCA_010150095.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507724	Homo sapiens	R_thumb	 SRS5258344	USA
+G_129914	1	GCA_010148925.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507779	Homo sapiens	R_nares	 SRS5258077	USA
+G_50113	1	GCA_020978225.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN16712075	NA	Lohmann Animal Health	 SRS7886596	Germany
+G_49815	1	GCA_002128525.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751482	pig	feces	NA	South Korea
+G_127954	1	GCA_000606985.1	Staphylococcus	Staphylococcus aureus	SAMN02402645	missing	missing	 SRS555383	missing
+G_129889	1	GCA_010147535.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507851	Homo sapiens	L_thumb	 SRS5257912	USA
+G_132206	1	GCA_000007645.1	Staphylococcus	Staphylococcus epidermidis	SAMN02603126	NA	NA	NA	NA
+G_49794	3	GCA_002112245.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN06640222	Gallus gallus	feces	NA	USA
+G_107602	1	GCA_011291945.1	Staphylococcus	Staphylococcus aureus	SAMN14330689	swine	nasal swab	NA	China
+G_49850	1	GCA_002128605.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751489	pig	feces	NA	South Korea
+G_132515	1	GCA_001234445.1	Staphylococcus	Staphylococcus haemolyticus	SAMEA1035145	Homo sapiens	blood	 ERS066269	Norway
+G_128899	1	GCA_001071425.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197834	Homo sapiens	missing	 SRS747044	USA
+G_105570	1	GCA_008935495.1	Staphylococcus	Staphylococcus aureus	SAMN09484030	Homo sapiens	blood	 SRS5130222	USA
+G_130030	1	GCA_010150835.1	Staphylococcus	Staphylococcus epidermidis	SAMN12507687	Homo sapiens	L_thumb	 SRS5257926	USA
+G_49777	1	GCA_002128655.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05751494	pig	feces	NA	South Korea
+G_49951	1	GCA_003065345.1	Limosilactobacillus	Limosilactobacillus reuteri	SAMN05942022	Homo sapiens	Commercial dietary supplements	 SRS1759745	USA
+G_128837	1	GCA_001072885.1	Staphylococcus	Staphylococcus epidermidis	SAMN03197615	Homo sapiens	missing	 SRS746822	USA

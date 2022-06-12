@@ -1,0 +1,236 @@
+Contig name,Prediction,Log-likelihood ratio,Predicted HMMs
+G_50089_0,Chromosome,-10.543217650674244,Ldh_1_N CT_C_D CT_A_B Biotin_lipoyl CPSase_L_D2 Biotin_carb_N Biotin_carb_C LamB_YcsF Phage_integrase Cu-oxidase_2 Cu-oxidase_3 CPSase_L_D2 PYC_OADA Biotin_carb_N HMGL-like Biotin_carb_C Biotin_lipoyl Biotin_lipoyl_2 BPL_LplA_LipB Ldh_1_N Ldh_1_C Nramp
+G_49815_0,Chromosome,-2.351634099906409,CotH CW_7 CW_7 Glyco_hydro_25 Glyco_hydro_53 KxYKxGKxW_sig Phage_integrase
+G_50090_0,Chromosome,-20.985359700597712,Resolvase Resolvase Transp_cyt_pur Amidohydro_3 CBS Pept_tRNA_hydro CarD_CdnL_TRCF UvrB_inter TRCF DEAD Helicase_C ResIII Tn916-Xis S4 DivIC S1 ATP_bind_3 TilS Pribosyltran Peptidase_M41 AAA AAA_lid_3 FtsH_ext HSP33 Dus tRNA-synt_2 tRNA_anti-codon Phage_integrase Integrase_DNA Phage_int_SAM_3 ADH_zinc_N_2 ADH_N HxlR YkuD PG_binding_4 YkuD Peptidase_S11
+G_127954_0,Plasmid,2.91,DDE_Tnp_1 DUF772 Resolvase DUF334 adh_short_C2
+G_131161_0,Plasmid,2.91,DUF334 Resolvase
+G_49723_0,Chromosome,-11.832701852250338,Gram_pos_anchor Rib Gram_pos_anchor MFS_1 MgsA_C HTH_3 RuvB_N Gram_pos_anchor LytTR Response_reg Asp23 DZR HATPase_c_5 NAD_binding_10 DUF1542 Gram_pos_anchor Pectate_lyase_5 SpoU_methylase HTH_38 Rib Rib Gram_pos_anchor IstB_IS21 Cons_hypoth698 LysR_substrate HTH_1 VanZ Phage_integrase
+G_132725_0,Plasmid,2.91,Resolvase DUF334
+G_130926_0,Plasmid,2.91,DUF334 Resolvase adh_short_C2 DDE_Tnp_1 DUF772
+G_50100_0,Plasmid,3.51,Rib Gram_pos_anchor Relaxase HTH_3 Phage_integrase
+G_49786_0,Chromosome,0,Phage_integrase
+G_49661_0,Chromosome,-6.6616730544294995,DUF5388 HTH_38 DDE_Tnp_ISL3 SWI2_SNF2 HSDR_N Glyco_hydro_70 KxYKxGKxW_sig Choline_bind_1 Methylase_S Methylase_S N6_Mtase HsdM_N DUF2971 tRNA_U5-meth_tr TRAM DAGK_cat YegS_C GatB_N GatB_Yqey Amidase Glu-tRNAGln CamS HTH_38 DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT DNA_ligase_ZBD PTCB-BRCT UvrD-helicase UvrD_C UvrD_C_2 ATP-grasp Phage_integrase Integrase_DNA Phage_int_SAM_3 Tn916-Xis HTH_38 Glyco_hydro_70 KxYKxGKxW_sig Phage_integrase Integrase_DNA Phage_int_SAM_3 HTH_36 Resolvase IstB_IS21 Muc_B2 Gram_pos_anchor MucBP MucBP
+G_6756_0,Chromosome,-5.892972173403997,BrxA Trans_reg_C Response_reg HATPase_c HisKA DUF6034 DUF6034 TetR_C_8 Glyco_hydro_36 tRNA_Me_trans tRNA_Me_trans_C tRNA_Me_trans_M Lipoprotein_9 Sigma70_r4_2 Sigma70_r2 ABC_tran NIL BPD_transp_1 ROK HTH_24 ABC_tran ABC_tran BPD_transp_2 Peripla_BP_4 ADH_N ADH_zinc_N Glu_dehyd_C ADH_zinc_N_2 FGGY_N FGGY_C ABC_ATPase ABC_N Peptidase_M18 DUF4179 ABC_tran HlyD_3 MacB_PCD FtsX SDH_alpha SDH_beta LysR_substrate HTH_1 RHH_1
+G_50113_0,Plasmid,3.51,Gram_pos_anchor HTH_3 Relaxase Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17 YoeB_toxin PhdYeFM_antitox
+G_45356_0,Plasmid,10.55,aBig_2 T2SSF DUF2326 HTH_26 IstB_IS21 Phage_integrase Peptidase_S26 Peptidase_M73 Peptidase_M73 T5orf172 Recombinase Zn_ribbon_recom DUF5655 MobC TED_2 SpaA SpaA GGACT Amidoligase_2 DNA_methylase ALP_N DUF5720 HTH_3 Relaxase
+G_50091_0,Plasmid,5.82,Resolvase Resolvase Tn916-Xis Phage_integrase Integrase_DNA Phage_int_SAM_3 ADH_zinc_N_2 ADH_N HxlR YkuD PG_binding_4 YkuD Peptidase_S11
+G_49852_1,Plasmid,15.09,PemK_toxin Glyco_hydro_68 KxYKxGKxW_sig MmeI_TRD MmeI_C MmeI_TRD MmeI_Mtase MmeI_hel MmeI_N Phage_integrase SHOCT DDE_Tnp_1 DUF772 PALP HTS Relaxase Vsr DUF559 DNA_methylase Phage_integrase Mrr_N Resolvase HTH_38 Bac_DNA_binding AAA_31 DUF5388 ALP_N ArdA HTH_38 DNA_pol3_beta_2 Gp49 HTH_3
+G_6535_0,Chromosome,-8.146312263774846,Peripla_BP_3 LacI BPD_transp_1 BPD_transp_1 HTH_26 HicB_lk_antitox HicB_lk_antitox Resolvase TetR_C_8 TetR_N BrxL_ATPase BrxL_N Lon_C PglZ HATPase_c_4 AlbA_2 HTH_24 N6_Mtase TIR_2 BrxB BcrAD_BadFG HGD-D BrxA HTH_26 RHH_1 Phage_integrase Phage_int_SAM_5 SDH_beta SDH_alpha MacB_PCD FtsX HGD-D HlyD_D23 ABC_tran Peptidase_M18 ABC_ATPase ABC_N BPD_transp_1 ABC_tran NIL Lipoprotein_9 tRNA_Me_trans tRNA_Me_trans_C tRNA_Me_trans_M Glyco_hydro_36 Glyco_transf_36 DUF6467
+G_132877_0,Plasmid,2.91,DUF334 Resolvase
+G_49836_0,Chromosome,0,Phage_integrase
+G_112260_0,Plasmid,2.91,adh_short_C2 DUF334 Resolvase DDE_Tnp_1 DUF772
+G_129345_0,Plasmid,7.11,DUF334 Resolvase DDE_Tnp_IS240
+G_48777_0,Plasmid,2.91,UPF0547 HTH_3 Resolvase
+G_129881_0,Plasmid,2.91,DUF334 Resolvase
+G_105709_0,Plasmid,21.53,DDE_Tnp_IS240 TetR_C_5 TetR_N MFS_1 DDE_Tnp_IS240 Resolvase DUF334 adh_short_C2 DDE_Tnp_IS240 RepA_N Bac_RepA_C AAA_31 DDE_Tnp_1 DUF772 DUF1002 AP2 YolD
+G_49782_0,Plasmid,3.51,PhdYeFM_antitox YoeB_toxin HTH_17 HTH_3 Relaxase HTH_3 Gram_pos_anchor Phage_integrase Phage_int_SAM_3
+G_50003_0,Chromosome,-17.832309860323747,DUF4767 ADH_N ADH_zinc_N ADH_N Peptidase_M10 LuxS DDE_Tnp_1 DUF772 Resolvase DUF3173 Lipoprotein_9 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 MFS_1 SpoU_methylase AAA_22 cNMP_binding HTH_Crp_2 PNP_UDP_1 NMN_transporter Metalloenzyme Glu_cys_ligase Glu_cys_ligase DUF436 Pyridoxal_deC AA_permease_2 Na_H_antiporter tRNA-synt_1b S4 MFS_1 LysM Acetyltransf_1 Transp_cyt_pur KxYKxGKxW_sig
+G_128949_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_49909_0,Chromosome,-2.4971416835774463,DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 HTH_3
+G_125502_0,Plasmid,2.91,Resolvase DUF334 DDE_Tnp_1 DUF772 adh_short_C2
+G_131011_0,Plasmid,2.91,Resolvase DUF334
+G_132557_0,Chromosome,-2.3687670707831145,DUF334 Resolvase LacAB_rpiB LacAB_rpiB PfkB DeoC PTS_IIA PTS_EIIC PTS_IIB Glyco_hydro_1 DUF915 DUF915 Bac_luciferase ADH_zinc_N ADH_N ADH_N BCCT DUF2273 Asp23 DDE_Tnp_1 DDE_Tnp_1 DUF772 adh_short_C2
+G_49704_0,Plasmid,5.11,Rib Gram_pos_anchor Rib HTH_3 Relaxase Phage_integrase Phage_int_SAM_5 MobC
+G_49851_0,Plasmid,13.95,ResIII EcoEI_R_C Helicase_C TnpB_IS66 DDE_Tnp_IS66 LZ_Tnp_IS66 zf-IS66 DDE_Tnp_IS66_C Melibiase Glyco_hydro_36N Glyco_hydro_36C MFS_2 PTS_EIIA_1 YSIRK_signal Phage_integrase AraC_binding HTH_18 HTH_AraC HTH_AraC Resolvase Resolvase DUF5388 AlbA_2 Methylase_S Methylase_S N6_Mtase HsdM_N ResIII
+G_130009_0,Plasmid,2.91,DUF334 Resolvase
+G_49921_0,Plasmid,5.82,SMODS AGS_C ResIII T5orf172 Resolvase Resolvase MmeI_Mtase MmeI_hel MmeI_N MmeI_TRD MmeI_C
+G_50067_0,Chromosome,-17.832309860323747,DUF4767 ADH_N ADH_zinc_N ADH_N Peptidase_M10 LuxS DDE_Tnp_1 DUF772 Resolvase DUF3173 Lipoprotein_9 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 MFS_1 SpoU_methylase AAA_22 cNMP_binding HTH_Crp_2 PNP_UDP_1 NMN_transporter Metalloenzyme Glu_cys_ligase Glu_cys_ligase DUF436 Pyridoxal_deC AA_permease_2 Na_H_antiporter tRNA-synt_1b S4 MFS_1 LysM Acetyltransf_1 Transp_cyt_pur KxYKxGKxW_sig
+G_130068_0,Plasmid,6.42,Relaxase Resolvase DUF334
+G_132588_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_129085_0,Plasmid,2.91,DUF334 Resolvase
+G_49753_0,Chromosome,-2.4971416835774463,Glyco_hydro_70 KxYKxGKxW_sig Choline_bind_3 Choline_bind_1 HTH_3 Phage_integrase Phage_int_SAM_5 Phage_int_SAM_3 DUF3173
+G_128837_0,Plasmid,2.91,DUF334 Resolvase adh_short_C2
+G_48198_0,Chromosome,0,YoeB_toxin PhdYeFM_antitox
+G_132244_0,Plasmid,2.91,Resolvase DUF334
+G_50071_0,Chromosome,-24.78193615297957,DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF1542 YSIRK_signal DUF1542 DUF1542 DUF1542 DUF1542 GA DUF1542 DUF1542 DUF1542 DUF1542 Gram_pos_anchor
+G_119873_0,Plasmid,2.91,DUF334 Resolvase
+G_136525_0,Plasmid,13.52,Relaxase MobC Resolvase DUF536 DUF334
+G_49787_0,Chromosome,0,Gram_pos_anchor HTH_3 Rib Phage_integrase
+G_132538_0,Plasmid,2.91,DUF334 Resolvase DDE_Tnp_1 DUF772 adh_short_C2
+G_132482_0,Plasmid,2.91,Resolvase DDE_Tnp_1 DUF772 adh_short_C2 DUF334
+G_128724_0,Plasmid,2.91,DUF334 Resolvase adh_short_C2
+G_49930_0,Plasmid,5.28,TnpB_IS66 LZ_Tnp_IS66 DDE_Tnp_IS66 DDE_Tnp_IS66_C TnpB_IS66 Acetyltransf_10 NAD_binding_10 DDE_Tnp_IS66 DDE_Tnp_IS66_C zf-IS66 LZ_Tnp_IS66 HxlR Nitroreductase HxlR MFS_1 Cu-oxidase_2 Cu-oxidase_3 HTH_38 Phage_integrase Phage_int_SAM_5 Phage_int_SAM_3 DUF3173 aRib aRib aRib YSIRK_signal Gram_pos_anchor Resolvase Resolvase DDE_Tnp_1 DUF772 Glutaminase GyrI-like SpoU_methylase
+G_50019_0,Plasmid,3.26,DUF4065 Abi_2 KxYKxGKxW_sig SpoU_methylase MFS_1 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF3173 Resolvase HTH_7 Resolvase HTH_3
+G_50090_1,Plasmid,3.51,Gram_pos_anchor HTH_3 Relaxase Phage_integrase zf-ISL3
+G_128794_0,Plasmid,2.91,Resolvase DUF334 DDE_Tnp_1 DUF772 adh_short_C2
+G_50048_0,Chromosome,-17.832309860323747,AAA_22 SpoU_methylase MFS_1 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF3173 KxYKxGKxW_sig Lipoprotein_9 LuxS Peptidase_M10 Resolvase ADH_N ADH_zinc_N ADH_N DUF4767 Transp_cyt_pur Acetyltransf_1 LysM MFS_1 tRNA-synt_1b S4 Na_H_antiporter AA_permease_2 Pyridoxal_deC DUF436 Glu_cys_ligase Glu_cys_ligase Metalloenzyme NMN_transporter PNP_UDP_1 cNMP_binding HTH_Crp_2 DDE_Tnp_1 DUF772
+G_131247_0,Plasmid,16.43,Resolvase Resolvase MobC Relaxase DUF334 DUF536 HTH_11
+G_130034_0,Plasmid,2.91,DUF334 Resolvase
+G_128746_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2 DDE_Tnp_1 DUF772 DDE_Tnp_1 DUF772
+G_131572_0,Plasmid,13.52,Resolvase MobC Relaxase DUF334 DUF536 HTH_11
+G_49850_0,Chromosome,0,Phage_integrase
+G_50160_0,Chromosome,0.41272359035034256,Resolvase HTH_38 Tn916-Xis Phage_integrase Integrase_DNA Phage_int_SAM_5 Phage_int_SAM_3 Phage_int_SAM_4 aRib aRib aRib Gram_pos_anchor HTH_38
+G_136553_0,Plasmid,2.91,DUF334 Resolvase adh_short_C2
+G_49904_0,Chromosome,0,Phage_integrase
+G_129221_0,Plasmid,13.52,Resolvase HTH_11 DUF536 DUF334 Relaxase MobC
+G_132206_0,Plasmid,2.91,DUF334 Resolvase
+G_130015_0,Plasmid,2.91,DUF334 Resolvase
+G_132579_0,Plasmid,2.91,Resolvase DUF334
+G_131395_0,Plasmid,33.36,Resolvase DUF334 MarR Glyoxalase Glyoxalase Abhydrolase_2 DUF3847 MobA_MobL MethyltransfD12 MethyltransfD12 RE_AlwI Resolvase HTH_7 HTH_23 DDE_Tnp_IS240 TetR_C_5 TetR_N MFS_1 Hydrolase_3 DUF536 RepA_N Bac_RepA_C DDE_Tnp_IS240 Resolvase HTH_7 HTH_23
+G_129914_0,Plasmid,2.91,DUF334 Resolvase
+G_132524_0,Plasmid,2.91,Resolvase DUF334
+G_105708_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2 DDE_Tnp_1_6 DDE_Tnp_1 DUF772
+G_50037_0,Chromosome,-17.832309860323747,AAA_22 SpoU_methylase MFS_1 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF3173 KxYKxGKxW_sig Lipoprotein_9 LuxS Peptidase_M10 Resolvase ADH_N ADH_zinc_N ADH_N DUF4767 Transp_cyt_pur Acetyltransf_1 LysM MFS_1 tRNA-synt_1b S4 Na_H_antiporter AA_permease_2 Pyridoxal_deC DUF436 Glu_cys_ligase Glu_cys_ligase Metalloenzyme NMN_transporter PNP_UDP_1 cNMP_binding HTH_Crp_2 DDE_Tnp_1 DUF772
+G_128910_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_49794_2,Chromosome,-10.944501297800564,Aldo_ket_red PAP2 DUF3427 ResIII PLDc_2 Helicase_C SWI2_SNF2 Pyr_redox_2 Pyr_redox_dim Phage_integrase DUF1542 YSIRK_signal DUF1542 aRib aRib aRib Gram_pos_anchor RVT_1 Sugar_tr adh_short_C2 NAD_binding_10 Metalloenzyme Cyt-b5 Na_H_antiporter Cation_efflux ZT_dimer Ser_hydrolase PsiE TIM HTH_18 AraC_binding Melibiase Glyco_hydro_36N Glyco_hydro_36C E1-E2_ATPase
+G_49494_0,Chromosome,-9.317202666733213,HTH_38 Glyco_hydro_70 KxYKxGKxW_sig tRNA-synt_2 tRNA_anti-codon Dus HSP33
+G_49955_0,Plasmid,3.51,PhdYeFM_antitox YoeB_toxin HTH_17 HTH_3 Relaxase HTH_3 Gram_pos_anchor Phage_integrase Phage_int_SAM_3
+G_130074_0,Plasmid,2.91,DUF334 Resolvase
+G_132424_0,Plasmid,2.91,Resolvase DUF334
+G_49794_1,Chromosome,-20.985359700597712,Cons_hypoth698 Resolvase Transp_cyt_pur Resolvase Amidohydro_3 CBS Pept_tRNA_hydro CarD_CdnL_TRCF UvrB_inter TRCF DEAD Helicase_C ResIII S4 DivIC S1 ATP_bind_3 TilS Pribosyltran Peptidase_M41 AAA AAA_lid_3 FtsH_ext HSP33 Dus tRNA-synt_2 tRNA_anti-codon HTH_38 VanZ LysR_substrate HTH_1
+G_105661_0,Plasmid,21.53,DUF334 Resolvase adh_short_C2 DDE_Tnp_IS240 MFS_1 TetR_C_5 TetR_N DDE_Tnp_IS240 YolD AP2 DUF1002 AAA_31 RepA_N Bac_RepA_C DDE_Tnp_IS240 DDE_Tnp_1 DUF772
+G_49844_0,Plasmid,10.93,Resolvase DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 MobC Relaxase Resolvase
+G_131009_0,Plasmid,2.91,DUF334 Resolvase
+G_50095_0,Plasmid,5.82,Resolvase Resolvase Tn916-Xis Phage_integrase Integrase_DNA Phage_int_SAM_3 ADH_zinc_N_2 ADH_N HxlR YkuD PG_binding_4 YkuD Peptidase_S11
+G_49892_0,Plasmid,11.77,Mrr_cat Mrr_N Resolvase Relaxase Rep_3 MmeI_Mtase MmeI_TRD MmeI_hel MmeI_N MmeI_C
+G_131616_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_97256_0,Chromosome,-56.613731568333804,ABC_tran SBP_bac_3 AA_kinase CsbD Thia_YuaJ Transketolase_N Transket_pyr Transketolase_C Shikimate_dh_N SDH_C DAHP_synth_1 DHQ_synthase PDT PBP AA_kinase Aldedh tRNA_edit DUF4044 DUF2785 HAD_2 Adenine_glyco PPK2 Usp MgsA_C AAA_assoc_2 AAA RuvB_N Glu_cys_ligase ATP-grasp_6 DUF1694 DUF1054 CorA HTH_3 Gram_pos_anchor Resolvase MobC Relaxase DUF3397 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 Ribosomal_S4 S4 GAF_2 EzrA Aminotran_5 ThiI THUMP tRNA-synt_1 Anticodon_1 Val_tRNA-synt_C Mur_ligase_M Mur_ligase_C MraZ MraZ HAD_2 RadC UPF0758_N CSD MreB_Mbl MreC MreD MinC_C AAA_31 BPD_transp_1 Methyltransf_5
+G_6710_0,Chromosome,-8.146312263774846,Resolvase HicB_lk_antitox HicB_lk_antitox HGD-D BcrAD_BadFG HGD-D TetR_C_8 TetR_N BPD_transp_1 BPD_transp_1 Peripla_BP_3 LacI Glyco_hydro_36 Glyco_transf_36 tRNA_Me_trans tRNA_Me_trans_C tRNA_Me_trans_M Lipoprotein_9 ABC_tran NIL BPD_transp_1 ABC_ATPase ABC_N Peptidase_M18 ABC_tran HlyD_D23 MacB_PCD FtsX SDH_alpha SDH_beta Phage_integrase Phage_int_SAM_5 RHH_1 HTH_26 HTH_26 BrxA BrxB TIR_2 N6_Mtase HATPase_c_4 AlbA_2 HTH_24 PglZ BrxL_ATPase BrxL_N Lon_C
+G_50030_0,Plasmid,11.95,DUF5388 Resolvase Resolvase HTH_7 Tn916-Xis Phage_integrase Integrase_DNA Phage_int_SAM_3 Phage_int_SAM_5 DDE_5 DUF3990 Gram_pos_anchor
+G_50089_1,Plasmid,8.54,DUF5388 Resolvase DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 TnpB_IS66 DDE_Tnp_IS66 DDE_Tnp_IS66_C LZ_Tnp_IS66 DDE_Tnp_1_3 HTH_38
+G_136322_1,Plasmid,16.43,adh_short_C2 Resolvase DUF536 DUF334 Relaxase MobC Resolvase DDE_Tnp_1 DUF772 HTH_11
+G_129889_0,Plasmid,2.91,DUF334 Resolvase
+G_169371_0,Chromosome,-138.4864260192699,HTH_38 Ribosomal_S10 Ribosomal_L3 Ribosomal_L4 Ribosomal_L23 Ribosomal_L2_C Ribosomal_L2 Ribosomal_S19 Ribosomal_L22 Ribosomal_S3_C KH_2 Ribosomal_L16 Ribosomal_L29 Ribosomal_S17 Ribosomal_L14 ribosomal_L24 KOW Ribosomal_L5_C Ribosomal_L5 Ribosomal_S14 Ribosomal_S8 Ribosomal_L6 Ribosomal_L6 Ribosomal_L18p Ribosomal_S5 Ribosomal_S5_C Ribosomal_L30 Ribosomal_L27A SecY ADK eIF-1a Ribosomal_L36 Ribosomal_S13 Ribosomal_S11 RNA_pol_A_CTD RNA_pol_A_bac RNA_pol_L Ribosomal_L17 MarR ABC_tran ABC_tran CbiQ PseudoU_synth_1 PseudoU_synth_1 CM_2 Cys_Met_Meta_PP Ribosomal_L13 Ribosomal_S9 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 Nitroreductase N6_Mtase HsdM_N Methylase_S Methylase_S SWI2_SNF2 HSDR_N Oxidored_FMN
+G_109018_0,Plasmid,17.72,Resolvase MobC Relaxase DUF334 DUF536 HTH_11 DDE_Tnp_IS240
+G_49871_0,Chromosome,0,Phage_integrase
+G_48209_0,Chromosome,-29.35102209619734,HSP33 Dus tRNA-synt_2 tRNA_anti-codon Glyco_hydro_70 KxYKxGKxW_sig HTH_38 CBS Tn916-Xis Ldh_1_N Ldh_1_C Pept_tRNA_hydro CarD_CdnL_TRCF UvrB_inter TRCF Helicase_C DEAD ResIII Polysacc_synt Polysacc_synt_C S4 DivIC S1 ATP_bind_3 TilS_C Pribosyltran Peptidase_M41 AAA AAA_lid_3 FtsH_ext Phage_integrase Integrase_DNA Phage_int_SAM_3
+G_136197_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_129276_0,Plasmid,5.35,Rep_3 CSD Transgly_assoc Gram_pos_anchor
+G_49671_1,Plasmid,3.32,Resolvase Resolvase DUF3173 Phage_integrase Phage_int_SAM_5 Phage_int_SAM_3 NUDIX
+G_107602_0,Plasmid,2.91,Resolvase DUF334 SHOCT
+G_49819_0,Plasmid,3.51,PhdYeFM_antitox YoeB_toxin HTH_17 HTH_3 Relaxase HTH_3 Gram_pos_anchor Phage_integrase Phage_int_SAM_3
+G_50133_0,Plasmid,3.51,Gram_pos_anchor HTH_3 Relaxase Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17 YoeB_toxin PhdYeFM_antitox
+G_107521_0,Plasmid,2.91,Resolvase DUF334 SHOCT
+G_49860_1,Chromosome,0.2375008861420156,SpoU_methylase MFS_1 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF3173 Resolvase Resolvase
+G_49893_0,Chromosome,-20.985359700597698,S1 DivIC S4 CarD_CdnL_TRCF UvrB_inter TRCF DEAD Helicase_C ResIII Pept_tRNA_hydro CBS Phage_integrase Integrase_DNA Phage_int_SAM_3 Resolvase Resolvase Cons_hypoth698 LysR_substrate HTH_1 Amidohydro_3 VanZ HTH_38 tRNA-synt_2 tRNA_anti-codon Dus HSP33 Peptidase_M41 AAA AAA_lid_3 FtsH_ext Pribosyltran ATP_bind_3 TilS Transp_cyt_pur
+G_49938_1,Chromosome,-23.482501384175166,Resolvase Resolvase PemK_toxin Transp_cyt_pur Amidohydro_3 CBS Pept_tRNA_hydro CarD_CdnL_TRCF UvrB_inter TRCF DEAD Helicase_C ResIII S4 DivIC S1 ATP_bind_3 TilS Pribosyltran Peptidase_M41 AAA AAA_lid_3 FtsH_ext Phage_integrase Integrase_DNA Phage_int_SAM_5 Phage_int_SAM_3 Phage_int_SAM_4 HSP33 Dus tRNA-synt_2 tRNA_anti-codon HTH_38 VanZ LysR_substrate HTH_1 Cons_hypoth698
+G_99958_0,Plasmid,6.46,Peptidase_S24 HTH_3 HTH_19 HTH_31 HTH_26 ADH_zinc_N Beta_helix CstA CstA_5TM Peripla_BP_3 LacI Alpha-amylase Alpha-amylase_N DUF3459 SBP_bac_8 BPD_transp_1 BPD_transp_1 DUF1858 NRDD ATP-cone Fer4_12 tRNA-synt_2 tRNA_anti-codon MatE MatE Polysacc_synt_C NAD_Gly3P_dh_C NAD_Gly3P_dh_N F420_oxidored NAD_binding_2 Peptidase_A24 PQQ_2 IU_nuc_hydro T2SSF N6_N4_Mtase MobC Relaxase DUF6040 ResIII EcoEI_R_C HSDR_N HSDR_N_2 N6_Mtase HsdM_N MFS_1 AAA_15 Methylase_S Resolvase HTH_3 HTH_17 Resolvase Resolvase Recombinase Resolvase Recombinase AAA_24
+G_6571_0,Chromosome,-2.983106899476205,Glyco_hydro_36 Glyco_transf_36 Peripla_BP_3 LacI BPD_transp_1 HTH_26 BPD_transp_1 HicB_lk_antitox HicB_lk_antitox Resolvase BrxL_ATPase BrxL_N PglZ HATPase_c_4 AlbA_2 HTH_24 N6_Mtase TetR_C_8 TetR_N BrxB BrxA HTH_26 RHH_1 Phage_integrase SDH_beta SDH_alpha BcrAD_BadFG HGD-D MacB_PCD FtsX HlyD_D23 ABC_tran Peptidase_M18 ABC_ATPase ABC_N BPD_transp_1 ABC_tran NIL Lipoprotein_9 tRNA_Me_trans tRNA_Me_trans_C tRNA_Me_trans_M HGD-D
+G_129972_0,Plasmid,2.91,DUF334 Resolvase
+G_49796_0,Chromosome,-2.3608052400237334,Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17 YoeB_toxin PhdYeFM_antitox HTH_24 PGI Mac Hexapep_2 Hexapep Sugar_transport HATPase_c HAMP HisKA Trans_reg_C Response_reg
+G_136176_0,Plasmid,6.42,DUF334 Resolvase Relaxase
+G_105570_0,Plasmid,17.33,YolD AP2 DUF1002 AAA_31 RepA_N Bac_RepA_C DDE_Tnp_IS240 DUF334 Resolvase DDE_Tnp_1 DUF772 adh_short_C2 DDE_Tnp_IS240
+G_49978_0,Chromosome,-17.832309860323747,DUF4767 ADH_N ADH_zinc_N ADH_N Peptidase_M10 LuxS DDE_Tnp_1 DUF772 Resolvase DUF3173 Lipoprotein_9 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 MFS_1 SpoU_methylase AAA_22 cNMP_binding HTH_Crp_2 PNP_UDP_1 NMN_transporter Metalloenzyme Glu_cys_ligase Glu_cys_ligase DUF436 Pyridoxal_deC AA_permease_2 Na_H_antiporter tRNA-synt_1b S4 MFS_1 LysM Acetyltransf_1 Transp_cyt_pur KxYKxGKxW_sig
+G_128856_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_132500_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_128858_0,Plasmid,2.91,DUF334 Resolvase YolD DDE_Tnp_1 DUF772 adh_short_C2
+G_6949_0,Plasmid,9.02,Transposase_20 DEDD_Tnp_IS110 ParE_toxin TrbL_2 SpoVG N6_N4_Mtase MT-A70 PrgI P-loop_TraG NLPC_P60 DUF4315 DUF4366 DarA_C Relaxase DBD_HTH HTH_3 HTH_31 Response_reg Trans_reg_C HATPase_c HisKA Sigma70_r4_2 Sigma70_r4_2 Sigma70_r2 AAA-ATPase_like PDDEXK_9 Recombinase Resolvase Zn_ribbon_recom Metallophos Metallophos WYL HTH_3
+G_109006_0,Plasmid,13.52,Resolvase HTH_11 DUF536 DUF334 Relaxase MobC
+G_49830_0,Plasmid,3.51,HTH_3 Relaxase Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17 YoeB_toxin PhdYeFM_antitox
+G_128814_0,Plasmid,2.91,DUF334 Resolvase adh_short_C2 DDE_Tnp_1 DUF772
+G_50052_0,Plasmid,11.95,Gram_pos_anchor DUF3990 Phage_integrase Integrase_DNA Phage_int_SAM_3 Phage_int_SAM_5 Tn916-Xis Resolvase HTH_7 Resolvase DUF5388 DDE_5
+G_49584_0,Chromosome,-8.486835549193565,HATPase_c_4 AlbA_2 Phage_integrase Phage_int_SAM_5 E1-E2_ATPase Peptidase_M10 Pyr_redox_2 Pyr_redox_dim DUF3427 ResIII PLDc_2 Helicase_C SWI2_SNF2 PAP2 Aldo_ket_red Resolvase TIM PsiE Ser_hydrolase Cation_efflux ZT_dimer Na_H_antiporter Cyt-b5 NAD_binding_10 adh_short Resolvase adh_short_C2 MgsA_C RuvB_N AAA AAA_assoc_2 AAA_5 Isochorismatase PCC FMN_red Glyco_hydro_3_C Glyco_hydro_3 Fn3-like BD-FAE HxlR Abhydrolase_5
+G_130023_0,Plasmid,2.91,DUF334 Resolvase
+G_129890_0,Plasmid,2.91,DUF334 Resolvase
+G_49977_0,Plasmid,8.26,Resolvase CENP-B_N Gram_pos_anchor HTH_3 Rep_3 YafQ_toxin
+G_49887_0,Plasmid,3.51,HTH_3 Relaxase Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17 YoeB_toxin PhdYeFM_antitox
+G_49975_0,Plasmid,11.95,DUF5388 Resolvase Resolvase HTH_7 Tn916-Xis Phage_integrase Integrase_DNA Phage_int_SAM_3 Phage_int_SAM_5 DDE_5 DUF3990 Gram_pos_anchor
+G_49868_0,Plasmid,3.51,HTH_3 Relaxase Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17 YoeB_toxin PhdYeFM_antitox
+G_49794_0,Chromosome,0.3639334261837348,Resolvase Mrr_N DNA_methylase Vsr DUF559 Ldh_1_N Ldh_1_C
+G_100718_0,Plasmid,23.77,BofA T4SS-DNA_transf DUF2508 DUF4314 DUF3801 Relaxase MobC DUF3789 N6_N4_Mtase N6_N4_Mtase DUF5688 DUF5688 DUF6198 DUF3991 S-AdoMet_synt_C S-AdoMet_synt_M S-AdoMet_synt_N TED_2 SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA SpaA GGACT Amidoligase_2 DNA_methylase LysR_substrate HTH_1 ALP_N IMS IMS_C Acetyltransf_3 Phage_integrase dCMP_cyt_deam_1 T2SSF T2SSE MobC Relaxase Resolvase UPRTase HTH_26 Methylase_S Methylase_S N6_Mtase HsdM_N ResIII EcoEI_R_C HSDR_N_2 Sua5_yciO_yrdC Sua5_C LMWPc HTH_26 TnpV HTH_3 TIR_2 HTH_3 HTH_17 Resolvase Resolvase Recombinase Zn_ribbon_recom T2SSE Amidase_3
+G_130030_0,Plasmid,2.91,DUF334 Resolvase
+G_21819_0,Plasmid,15.10,GreA_GreB_N GreA_GreB tRNA-synt_2 tRNA_bind tRNA_anti-codon Methyltransf_11 Phage_integrase Phage_int_SAM_4 Phage_int_SAM_1 Y2_Tnp Zn_Tnp_IS91 HTH_3 ABC_tran ABC2_membrane_4 BacA DUF438 PAS_10 DUF1858 Hemerythrin ATC_hydrolase Methylase_S DUF1524 HTH_3 Phage_integrase Phage_integrase Phage_integrase DUF6262 TnpV Resolvase Recombinase Resolvase Resolvase HTH_17 HTH_3 Eco57I ResIII RepB-RCR_reg Resolvase PS_pyruv_trans Transposase_mut Relaxase MobC DNA_pol_B_2 T2SSF Flp1_like DUF5702 Peptidase_A24 TadE DUF6382 FHA Rhomboid HIT LigB AMMECR1 Radical_SAM S-methyl_trans MTHFR Glyco_transf_28 Glyco_tran_28_C PGI NfeD Band_7 OTCace OTCace_N BPL_LplA_LipB HTH_11 BPL_C DUF6145 Pan_kinase Dus Hemerythrin
+G_136534_0,Plasmid,5.82,Resolvase DUF334 Resolvase
+G_48191_0,Plasmid,5.82,Resolvase Resolvase DUF3173 Phage_integrase Phage_int_SAM_3 HTH_3
+G_128855_0,Plasmid,2.91,DUF334 Resolvase adh_short_C2
+G_131542_1,Plasmid,13.52,Resolvase MobC Relaxase DUF334 DUF536
+G_49853_0,Plasmid,13.95,DUF5388 Resolvase Resolvase ResIII AraC_binding HTH_18 HTH_AraC HTH_AraC Phage_integrase MFS_2 PTS_EIIA_1 Melibiase Glyco_hydro_36N Glyco_hydro_36C DDE_Tnp_IS66 LZ_Tnp_IS66 zf-IS66 DDE_Tnp_IS66_C TnpB_IS66 ResIII EcoEI_R_C Helicase_C N6_Mtase HsdM_N Methylase_S Methylase_S AlbA_2 aRib aRib aRib aRib aRib YSIRK_signal GA GA GA
+G_46088_0,Chromosome,-64.09509496421609,SBP_bac_3 PLDc_2 PLDc_N PLDc_2 PLDc MraZ MraZ Methyltransf_5 HTH_3 PadR HTH_26 Gram_pos_anchor Transpeptidase PBP_dimer PASTA PASTA HTH_3 Ribosomal_S4 S4 GAF_2 EzrA Aminotran_5 ThiI THUMP CoA_binding Put_DNA-bind_N tRNA-synt_1 Anticodon_1 Val_tRNA-synt_C Glycos_transf_4 MraY_sig1 Mur_ligase_C Mur_ligase_M HAD_2 RadC UPF0758_N MreB_Mbl MreC MreD MinC_C CbiA BPD_transp_1 ABC_tran Mur_ligase_M Mur_ligase_C
+G_50021_0,Chromosome,-11.921913953607515,ADH_zinc_N_2 ADH_N GATase GMP_synt_C NAD_synthase tRNA_Me_trans DUF285 DUF285 KxYKxGKxW_sig Rib Lipoprotein_9 LuxS Peptidase_M10 ADH_N ADH_zinc_N ADH_N DUF4767 Transp_cyt_pur LtrA Acetyltransf_1 CorA LysM AAA_14 MFS_1 ParE_toxin DUF436 Glu_cys_ligase Glu_cys_ligase Metalloenzyme NMN_transporter PNP_UDP_1 cNMP_binding HTH_Crp_2 AAA_22 PRK SpoU_methylase MFS_1 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF3173 Resolvase Resolvase Sulfatase DUF4065 Abi_2 KxYKxGKxW_sig HTH_3 HxlR EamA EamA
+G_100623_0,Chromosome,-3.352449331598251,Peptidase_A24 Glyco_hydro_31 Gal_mutarotas_2 Peripla_BP_3 LacI Pribosyltran_N Pribosyltran Pribosyl_synth AAA_23 Metallophos tRNA-synt_2 tRNA_anti-codon Flg_new Flg_new Flg_new Flg_new GalP_UDP_transf GalP_UDP_tr_C Methyltransf_32 PNP_UDP_1 CBAH TSCPD Beta-Casp RMMBL Lactamase_B_6 Lactamase_B_2 Glyco_transf_28 Glyco_tran_28_C Sigma70_r2 HIT HATPase_c Rhomboid DUF6382 FHA TadE ATP-synt_DE_N ATP-synt_DE Peptidase_A24 DUF5702 Flp1_like T2SSF T2SSF DNA_pol_B_2 Resolvase ATP-synt_ab ATP-synt_ab_N AAA_33 Peptidase_S15 PepX_C DUF819 MR_MLE_C MR_MLE_N HTH_3 Cupin_2 ABC_tran BPD_transp_1 BPD_transp_1 ATP-synt HTH_3 DUF5348 HTH_17 Resolvase Resolvase Recombinase T2SSE ATP-synt_ab_C ATP-synt_ab
+G_123932_0,Plasmid,2.91,DUF334 Resolvase DDE_Tnp_1_6
+G_128944_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_131974_0,Plasmid,13.52,Resolvase MobC Relaxase DUF334 DUF536
+G_128900_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_50111_0,Plasmid,11.43,Resolvase Resolvase DUF5388 AlbA_2 Methylase_S Methylase_S N6_Mtase HsdM_N Phage_integrase ResIII EcoEI_R_C Helicase_C
+G_49877_0,Plasmid,3.51,Gram_pos_anchor HTH_3 Relaxase Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17 YoeB_toxin PhdYeFM_antitox
+G_128888_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_132515_0,Chromosome,-4.942642580807139,DUF334 DltD PP-binding MBOAT Resolvase AMP-binding AMP-binding_C 2-Hacid_dh_C Hydrolase_6 Hydrolase_like HAD_2 HepT-like DUF3055 YutD-like Radical_SAM LIAS_N Metallophos 5_nucleotid_C TauE DUF72 NMO SUFBD SufBD_N NifU_N Aminotran_5 SUFBD SufBD_N ABC_tran DUF368 DDE_Tnp_1 DUF772 adh_short_C2
+G_49956_0,Chromosome,-2.4971416835774463,DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 HTH_3
+G_124119_0,Plasmid,2.91,Resolvase DUF334 DDE_Tnp_1_6
+G_136566_0,Plasmid,13.52,DUF536 DUF334 Relaxase MobC Resolvase
+G_49593_1,Chromosome,-39.57752418524896,GHMP_kinases_N GHMP_kinases_C Homoserine_dh NAD_binding_3 Thr_synth_N PALP Ribosomal_L12 Ribosomal_L12_N Ribosomal_L10 AA_permease_2 Ferrochelatase Ribosomal_L1 Ribosomal_L11_N Ribosomal_L11 NusG KOW SecE Ribosomal_L33 SpoU_methylase SpoU_sub_bind Ribonuclease_3 tRNA-synt_1e DALR_2 AAA_25 Rubredoxin_2 ChlI Lon_C dUTPase Acetyltransf_CG Rib_5-P_isom_A Mac Hexapep Peptidase_C1_2 Peptidase_M1 ERAP1_C Peptidase_M1_N BD-FAE His_Phos_1 Phage_integrase Relaxase
+G_129058_0,Plasmid,2.91,Resolvase DUF334
+G_49907_0,Plasmid,8.26,Resolvase MethyltransfD12 MethyltransfD12 FokI_cleav_dom FokI_dom_2 FokI_D1 Rep_3
+G_131949_0,Plasmid,13.52,MobC Relaxase DUF334 DUF536 HTH_11 Resolvase
+G_136482_0,Plasmid,13.52,Relaxase MobC Resolvase DUF536 DUF334
+G_128803_0,Plasmid,5.82,Resolvase DUF334 DDE_Tnp_1 DUF772 Resolvase DUF334 adh_short_C2 DDE_Tnp_1 DUF772 adh_short_C2
+G_128774_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2 DDE_Tnp_1 DUF772
+G_50156_0,Chromosome,-2.351634099906409,CotH CW_7 Glyco_hydro_25 Phage_integrase RVT_1 GIIM Glyco_hydro_53 KxYKxGKxW_sig
+G_136239_0,Plasmid,7.00,Resolvase MobC DUF334 HTH_5 Cad SHOCT
+G_129010_0,Plasmid,2.91,Resolvase DDE_Tnp_1 DUF772 adh_short_C2 DUF334
+G_49991_0,Chromosome,-15.810601751460467,DUF3427 ResIII PLDc_2 Helicase_C SWI2_SNF2 Pyr_redox_2 Pyr_redox_dim HTH_38 Pribosyltran AIRS_C AIRS Formyl_trans_N AICARFT_IMPCHas MGS GARS_A GARS_N GARS_C His_Phos_1 His_Phos_1 tRNA-synt_1b S4 DUF6467 MobC Relaxase RVT_1 RVT_1 GIIM Glyco_hydro_53 KxYKxGKxW_sig CotH CW_7 Glyco_hydro_25 CW_7 Phage_integrase HTH_38 Radical_SAM Mob_synth_C FeS_assembly_P MoaC Phage_integrase Sugar_tr adh_short_C2 NAD_binding_10 Peptidase_M10 Cyt-b5 Na_H_antiporter Cation_efflux ZT_dimer Cation_efflux Ser_hydrolase PsiE TIM Aldo_ket_red PAP2 Hydrolase
+G_130191_0,Plasmid,2.91,DUF334 Resolvase
+G_50055_0,Plasmid,3.51,Gram_pos_anchor Rib HTH_3 Relaxase Phage_integrase
+G_49885_0,Chromosome,-0.26159986086404174,Ser_hydrolase PsiE TIM Aldo_ket_red PAP2 DUF3427 ResIII PLDc_2 Helicase_C SWI2_SNF2 Phage_integrase DDE_Tnp_IS66 DDE_Tnp_IS66_C TnpB_IS66 Sugar_tr MFS_1 adh_short_C2 NAD_binding_10 Cyt-b5 Na_H_antiporter Cation_efflux ZT_dimer Pyr_redox_2 Pyr_redox_dim
+G_128732_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_50051_0,Chromosome,-5.823027819643553,Na_H_Exchanger MucBP_2 Muc_B2 Gram_pos_anchor PhdYeFM_antitox YoeB_toxin Beta-lactamase HTH_17 HTH_3 Phage_integrase Phage_int_SAM_3 Trans_reg_C Response_reg HATPase_c HAMP HisKA Sugar_transport Hexapep Mac PGI ADI FGGY_N YcbB Response_reg OTCace OTCace_N AA_kinase EamA EamA Peptidase_M10 Cupredoxin_1 Cupredoxin_1 E1-E2_ATPase Hydrolase Hydrolase_3 Arg_repressor Arg_repressor_C
+G_129349_0,Plasmid,2.91,DUF334 Resolvase
+G_128899_0,Plasmid,2.91,DUF334 Resolvase adh_short_C2
+G_49758_0,Chromosome,-2.4971416835774463,Phage_integrase Phage_int_SAM_5 Gram_pos_anchor Rib
+G_130950_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2 DDE_Tnp_1 DUF772
+G_49671_0,Plasmid,1.02,Gram_pos_anchor HTH_3 Ion_trans_2 SBP_bac_3 BPD_transp_1 NRDD Fer4_12 ABC_tran LysM SUFBD SufBD_N SUFBD SufBD_N Xan_ur_permease Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF3173 Relaxase HSP20
+G_131451_0,Plasmid,13.52,Resolvase MobC Relaxase DUF334 DUF536
+G_128849_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_132944_0,Plasmid,2.91,Resolvase DUF334
+G_50017_0,Plasmid,11.95,Resolvase HTH_7 Resolvase DUF5388 KxYKxGKxW_sig Gram_pos_anchor HTH_3 HATPase_c_4 AlbA_2 Phage_integrase Phage_int_SAM_5
+G_136560_0,Plasmid,2.91,adh_short_C2 Resolvase DUF334
+G_50100_1,Plasmid,8.54,DUF5388 Resolvase DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 TnpB_IS66 DDE_Tnp_IS66 DDE_Tnp_IS66_C LZ_Tnp_IS66 DDE_Tnp_1_3 HTH_38
+G_130008_0,Plasmid,2.91,DUF334 Resolvase
+G_6812_0,Chromosome,-5.044755617498968,NTP_transf_3 HTH_1 MoCoBD_1 MoCoBD_2 Fer2_2 Ald_Xan_dh_C Fer2 Fer4_20 Fer4_17 CCG CCG Methyltransf_11 Lipoprotein_9 ABC_tran NIL BPD_transp_1 ABC_ATPase ABC_N Peptidase_M18 ABC_tran HlyD_3 MacB_PCD FtsX C_GCAxxG_C_C SDH_alpha SDH_beta SDF LysR_substrate HTH_1 Phage_integrase RHH_1 Radical_SAM HATPase_c_5 IstB_IS21 NTPase_1 Methyltransf_25 ABC_tran FecCD Peripla_BP_2 TylF XdhC_C XdhC_CoxI His_Phos_1 HD AMP-binding
+G_131022_0,Plasmid,2.91,DUF334 Resolvase
+G_132158_0,Plasmid,4.20,Beta-lactamase2 LPAM_1 HTH_11 Penicillinase_R Peptidase_M56 Transpeptidase DDE_Tnp_IS240
+G_130175_0,Plasmid,2.91,DUF334 Resolvase
+G_129072_0,Plasmid,2.91,Resolvase DUF334
+G_50166_0,Chromosome,-10.543217650674237,CPSase_L_D2 PYC_OADA Biotin_carb_N HMGL-like Biotin_carb_C Biotin_lipoyl Biotin_lipoyl_2 Cu-oxidase_2 Cu-oxidase_3 Phage_integrase Nramp LamB_YcsF CPSase_L_D2 Biotin_carb_N Biotin_carb_C Biotin_lipoyl CT_A_B CT_C_D Ldh_1_N Ldh_1_C Ldh_1_N BPL_LplA_LipB
+G_129871_0,Plasmid,2.91,DUF334 Resolvase
+G_49852_0,Chromosome,-9.510004961401549,E1-E2_ATPase Hydrolase Metalloenzyme NAD_binding_10 GARS_A GARS_C His_Phos_1 His_Phos_1 tRNA-synt_1b S4 DUF6467 Rrf2 Relaxase HTH_3 MucBP_2 Muc_B2 Muc_B2 Muc_B2 Muc_B2 Muc_B2 MucBP_2 MucBP_2 MucBP_2 MucBP_2 MucBP_2 Muc_B2 Muc_B2 Muc_B2 Muc_B2 MucBP_2 MucBP_2 Muc_B2 MucBP_2 MucBP_2 Muc_B2 Muc_B2 MucBP_2 MucBP_2 YSIRK_signal Gram_pos_anchor DDE_Tnp_IS66 DDE_Tnp_IS66_C LZ_Tnp_IS66 zf-IS66 TnpB_IS66 OpuAC TnpB_IS66 LZ_Tnp_IS66 HTH_38 Phage_integrase BPD_transp_1 Sugar_tr adh_short_C2 NAD_binding_10 Cyt-b5 Na_H_antiporter Cation_efflux ZT_dimer HTH_38 Ser_hydrolase ABC_tran PsiE TIM Aldo_ket_red PAP2 DUF3427 ResIII PLDc_2 Helicase_C SWI2_SNF2 Pyr_redox_2 Pyr_redox_dim Peptidase_M10 BPD_transp_1
+G_50166_1,Plasmid,8.54,DUF5388 Resolvase DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 TnpB_IS66 DDE_Tnp_IS66 DDE_Tnp_IS66_C LZ_Tnp_IS66 DDE_Tnp_1_3 HTH_38
+G_105545_0,Plasmid,23.26,Peptidase_M56 Transpeptidase Beta-lactamase2 LPAM_1 Resolvase RepA_N Bac_RepA_C AAA_31 DUF334 DUF1002 AP2 YolD DDE_Tnp_IS240 TetR_C_5 TetR_N MFS_1 DDE_Tnp_IS240 adh_short_C2 DDE_Tnp_1 DUF772 AAA_22 Mu-transpos_C rve Resolvase HTH_7 HTH_11 Penicillinase_R
+G_49860_0,Chromosome,-2.351634099906409,CW_7 CW_7 Glyco_hydro_25 CotH Glyco_hydro_53 KxYKxGKxW_sig Phage_integrase GIIM RVT_1
+G_130039_0,Plasmid,2.91,DUF334 Resolvase
+G_129883_0,Plasmid,2.91,DUF334 Resolvase
+G_49870_0,Chromosome,0,Phage_integrase
+G_49908_0,Plasmid,11.77,Resolvase Mrr_cat Mrr_N MmeI_Mtase MmeI_TRD MmeI_hel MmeI_N MmeI_C Relaxase Rep_3
+G_49951_0,Plasmid,13.95,ResIII EcoEI_R_C Helicase_C TnpB_IS66 DDE_Tnp_IS66 LZ_Tnp_IS66 zf-IS66 DDE_Tnp_IS66_C Melibiase Glyco_hydro_36N Glyco_hydro_36C MFS_2 PTS_EIIA_1 aRib YSIRK_signal Phage_integrase AraC_binding HTH_18 HTH_AraC HTH_AraC Resolvase Resolvase DUF5388 AlbA_2 Methylase_S Methylase_S N6_Mtase HsdM_N ResIII
+G_129836_0,Plasmid,2.91,DUF334 Resolvase
+G_136514_0,Plasmid,2.91,Resolvase DUF334
+G_49955_1,Plasmid,11.00,DUF5388 AAA_31 HTH_3 Gram_pos_anchor Resolvase
+G_124008_0,Plasmid,2.91,Resolvase DUF334 DDE_Tnp_1
+G_49986_0,Chromosome,-17.832309860323747,AAA_22 SpoU_methylase MFS_1 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 DUF3173 KxYKxGKxW_sig Lipoprotein_9 LuxS Peptidase_M10 Resolvase ADH_N ADH_zinc_N ADH_N DUF4767 Transp_cyt_pur Acetyltransf_1 LysM MFS_1 tRNA-synt_1b S4 Na_H_antiporter AA_permease_2 Pyridoxal_deC DUF436 Glu_cys_ligase Glu_cys_ligase Metalloenzyme NMN_transporter PNP_UDP_1 cNMP_binding HTH_Crp_2 DDE_Tnp_1 DUF772
+G_100380_0,Plasmid,6.92,AAA_2 Metallophos DUF2263 Metallophos_2 MatE MatE UPF0160 DUF3878 HATPase_c HisKA Response_reg Trans_reg_C DUF975 Resolvase DNA_pol_B_2
+G_49810_0,Chromosome,-5.136457855932257,CW_7 CW_7 Glyco_hydro_25 CotH Pyr_redox_2 Pyr_redox_dim DUF3427 ResIII PLDc_2 Helicase_C SWI2_SNF2 PAP2 Aldo_ket_red TIM PsiE Ser_hydrolase Cation_efflux Cation_efflux ZT_dimer Glyco_hydro_53 KxYKxGKxW_sig Na_H_antiporter Cyt-b5 NAD_binding_10 adh_short_C2 Sugar_tr Phage_integrase RVT_1 GIIM
+G_169491_0,Chromosome,-138.48642601926974,Ribosomal_S3_C KH_2 Ribosomal_L22 Ribosomal_S19 Ribosomal_L2_C Ribosomal_L2 Oxidored_FMN Nitroreductase MarR SWI2_SNF2 HSDR_N Ribosomal_L23 Methylase_S Methylase_S N6_Mtase HsdM_N Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_4 Ribosomal_L4 Ribosomal_S9 Ribosomal_L13 Cys_Met_Meta_PP CM_2 PseudoU_synth_1 PseudoU_synth_1 CbiQ ABC_tran ABC_tran Ribosomal_L17 Ribosomal_L3 RNA_pol_A_CTD RNA_pol_A_bac RNA_pol_L Ribosomal_S11 Ribosomal_S13 Ribosomal_L36 eIF-1a ADK SecY Ribosomal_L27A Ribosomal_L30 Ribosomal_S5 Ribosomal_S5_C Ribosomal_S10 Ribosomal_L18p Ribosomal_L6 Ribosomal_L6 Ribosomal_S8 Ribosomal_S14 Ribosomal_L5_C Ribosomal_L5 ribosomal_L24 KOW Ribosomal_L14 Ribosomal_S17 Ribosomal_L29 Ribosomal_L16 HTH_38
+G_49593_2,Plasmid,11.00,AAA_31 Resolvase RE_AlwI MethyltransfD12 MethyltransfD12 DUF5388 AA_permease_2
+G_132282_0,Plasmid,6.42,DUF334 Resolvase Relaxase
+G_129819_0,Plasmid,2.91,DUF334 Resolvase
+G_6583_0,Chromosome,-8.146312263774846,Resolvase HicB_lk_antitox HGD-D BcrAD_BadFG HGD-D HGD-D TetR_C_8 TetR_N BPD_transp_1 BPD_transp_1 HicB_lk_antitox Peripla_BP_3 LacI Glyco_hydro_36 Glyco_transf_36 tRNA_Me_trans tRNA_Me_trans_C tRNA_Me_trans_M Lipoprotein_9 ABC_tran NIL BPD_transp_1 ABC_ATPase ABC_N Peptidase_M18 ABC_tran HlyD_D23 MacB_PCD FtsX SDH_alpha SDH_beta Phage_integrase Phage_int_SAM_5 RHH_1 HTH_26 BrxA BrxB HATPase_c_4 AlbA_2 HTH_24 PglZ HTH_26 BrxL_ATPase BrxL_N Lon_C
+G_49777_0,Chromosome,0,Phage_integrase
+G_107595_0,Plasmid,6.42,SHOCT Resolvase DUF334 Relaxase
+G_49593_0,Chromosome,-2.4971416835774463,Phage_integrase Phage_int_SAM_5
+G_6995_0,Chromosome,0,WYL Metallophos Metallophos AAA-ATPase_like PDDEXK_9 ParE_toxin Transposase_20 DEDD_Tnp_IS110
+G_48117_0,Plasmid,3.51,Gram_pos_anchor HTH_3 Relaxase Phage_integrase Phage_int_SAM_3 HTH_3 HTH_17
+G_100627_0,Chromosome,-6.682006865194893,GalP_UDP_transf GalP_UDP_tr_C Flg_new Flg_new Flg_new Flg_new tRNA-synt_2 tRNA_anti-codon Metallophos AAA_23 Resolvase DNA_pol_B_2 Pribosyl_synth T2SSF T2SSF Flp1_like DUF5702 Peptidase_A24 TadE DUF6382 FHA Rhomboid Pribosyltran_N HATPase_c HIT Sigma70_r2 Glyco_transf_28 Glyco_tran_28_C Beta-Casp RMMBL Lactamase_B_6 Lactamase_B_2 TSCPD PNP_UDP_1 Methyltransf_32
+G_49938_0,Chromosome,-1.0076729362252337,Ldh_1_N CT_C_D CT_A_B Melibiase Glyco_hydro_36C DDE_Tnp_1_3 KxYKxGKxW_sig Gram_pos_anchor DUF5388 Biotin_lipoyl Resolvase RNA_helicase Phage_integrase Phage_int_SAM_5 Fic CPSase_L_D2 Biotin_carb_N Biotin_carb_C Relaxase HTH_3 Rib Gram_pos_anchor LamB_YcsF Phage_integrase Cu-oxidase_2 Cu-oxidase_3 CPSase_L_D2 PYC_OADA Biotin_carb_N HMGL-like Biotin_carb_C Biotin_lipoyl Biotin_lipoyl_2 BPL_LplA_LipB Ldh_1_N Ldh_1_C Nramp
+G_50099_0,Chromosome,0.41272359035034256,HTH_38 Resolvase HTH_38 Phage_integrase Integrase_DNA Phage_int_SAM_5 Phage_int_SAM_3 Phage_int_SAM_4 Tn916-Xis aRib aRib aRib Gram_pos_anchor
+G_136526_0,Plasmid,2.91,DUF334 Resolvase
+G_48873_0,Plasmid,2.91,Phage_integrase HTH_3 Resolvase
+G_124016_0,Plasmid,2.91,DUF334 adh_short_C2 DUF772 DDE_Tnp_1_6 Resolvase DDE_Tnp_1
+G_129848_0,Plasmid,2.91,DUF334 Resolvase
+G_128877_0,Plasmid,2.91,Resolvase DUF334 adh_short_C2
+G_130017_0,Plasmid,2.91,DUF334 Resolvase
+G_129022_0,Plasmid,2.91,Resolvase DUF334
+G_48831_0,Plasmid,2.91,Phage_integrase HTH_3 Resolvase
+G_49887_1,Plasmid,11.00,HTH_19 Resolvase CENP-B_N DUF5388 AAA_31 HTH_3 Gram_pos_anchor
+G_49984_0,Plasmid,5.82,Resolvase Resolvase Tn916-Xis Phage_integrase Integrase_DNA Phage_int_SAM_3 ADH_zinc_N_2 ADH_N HxlR YkuD PG_binding_4 YkuD Peptidase_S11
+G_50173_0,Plasmid,5.82,Resolvase Resolvase Tn916-Xis Phage_integrase Integrase_DNA Phage_int_SAM_3 ADH_zinc_N_2 ADH_N HxlR YkuD PG_binding_4 YkuD Peptidase_S11
+G_132420_0,Chromosome,0.35031802416494706,Fic Acetyltransf_1 HAD_2 dNK dNK MafB19-deam Hydrolase_3 Resolvase FMN_red DUF334 adh_short_C2 DDE_Tnp_1 DUF772 Glyoxalase Acetyltransf_1 YSIRK_signal
+G_124259_0,Plasmid,2.91,DUF334 Resolvase
+G_149386_0,Plasmid,2.91,DUF334 Resolvase
+G_50057_0,Chromosome,-5.823027819643553,HTH_17 YoeB_toxin PhdYeFM_antitox Arg_repressor Arg_repressor_C ADI Beta-lactamase MucBP_2 Muc_B2 Na_H_Exchanger E1-E2_ATPase Hydrolase Hydrolase_3 Cupredoxin_1 Cupredoxin_1 Peptidase_M10 EamA EamA AA_kinase OTCace OTCace_N YcbB Response_reg FGGY_N PGI Hexapep Mac Sugar_transport HATPase_c HAMP HisKA Trans_reg_C Response_reg Phage_integrase Phage_int_SAM_3 HTH_3 Gram_pos_anchor
+G_130249_0,Plasmid,2.91,DUF334 Resolvase
+G_49864_0,Plasmid,3.51,PhdYeFM_antitox YoeB_toxin HTH_17 HTH_3 Relaxase HTH_3 Gram_pos_anchor Phage_integrase Phage_int_SAM_3
+G_132856_0,Plasmid,2.91,Resolvase DUF334
+G_49792_0,Plasmid,10.93,Resolvase DUF3173 Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 MobC Relaxase Resolvase
+G_6979_0,Plasmid,4.06,WYL PLDc_2 ABC_tran ABC_membrane ABC_tran ABC_membrane Metallophos LCM ATC_hydrolase BAAT_C Lactamase_B Methyltransf_25 LCM Methyltransf_11 Metallophos TetR_N DUF6076 DUF5906 DUF6471 MobA_MobL DUF4368 Recombinase Zn_ribbon_recom Resolvase Phage_integrase Phage_int_SAM_3 Phage_int_SAM_5 HTH_17 HTH_17 PemK_toxin HTH_3 AAA-ATPase_like PDDEXK_9 ParE_toxin Transposase_20 DEDD_Tnp_IS110
+G_129887_0,Plasmid,6.42,Resolvase DUF334 Relaxase
